@@ -20,6 +20,12 @@ I'm a final year B.Tech IT Engineering student passionate about application deve
 - **Technologies Used:** Java, Android Studio, Firebase.
 
 
+### Project 4: [ Ecommerce Web]
+- **Description:**  modern and responsive e-commerce frontend built with React and JSX. This project features a dynamic product catalog, seamless navigation, and user authentication.
+- **Technologies Used:** React, JavaScript.
+
+
+
 ## Contributing
 If you're open to contributions, provide guidelines for contributors.
 
