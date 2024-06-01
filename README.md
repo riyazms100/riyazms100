@@ -1,7 +1,7 @@
 # Welcome to Riyaz's Portfolio!
 
 ## About Me
-I'm a final year B.Tech IT Engineering student passionate about application development, with a focus on Java and Flutter. I have experience working on multiple projects using Android Studio.
+I'm a final year B.Tech IT Engineering student passionate about application development & Website development with a focus on Java and Flutter & MERN stack. I have experience working on multiple projects using Android Studio, MERN STACK Projects.
 
 ## Projects
 
